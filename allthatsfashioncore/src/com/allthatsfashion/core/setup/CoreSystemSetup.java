@@ -35,6 +35,7 @@ import java.util.List;
 @SystemSetup(extension = AllthatsfashionCoreConstants.EXTENSIONNAME)
 public class CoreSystemSetup extends AbstractSystemSetup
 {
+
 	public static final String IMPORT_ACCESS_RIGHTS = "accessRights";
 
 	/**
